@@ -1,0 +1,11 @@
+INÍCIO
+    1. Despertar
+    2. Se o alarme estiver tocando
+        1. Desligar o alarme
+    3. Fazer café
+    4. Se o dia estiver quente
+        1. Vestir roupas claras e leves
+    5. Se o dia não estiver quente 
+        1. Vestir roupas escuras
+    6. Sair de casa
+FIM
